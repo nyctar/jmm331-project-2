@@ -6,7 +6,7 @@ d3.json("sentiment-bar-chart.json").then(data => {
     });
 
     const margin = { top: 30, right: 20, bottom: 40, left: 50 };
-    const width = 800 - margin.left - margin.right;
+    const width = 600 - margin.left - margin.right;
     const height = 400 - margin.top - margin.bottom;
 
     const svg = d3.select("#sentimentBarChart")
