@@ -1,0 +1,452 @@
+[
+  {
+    "index_by_10": 1,
+    "sentiment": 7,
+    "positive": true
+  },
+  {
+    "index_by_10": 2,
+    "sentiment": 9,
+    "positive": true
+  },
+  {
+    "index_by_10": 3,
+    "sentiment": 15,
+    "positive": true
+  },
+  {
+    "index_by_10": 4,
+    "sentiment": 19,
+    "positive": true
+  },
+  {
+    "index_by_10": 5,
+    "sentiment": -4,
+    "positive": false
+  },
+  {
+    "index_by_10": 6,
+    "sentiment": 6,
+    "positive": true
+  },
+  {
+    "index_by_10": 7,
+    "sentiment": 6,
+    "positive": true
+  },
+  {
+    "index_by_10": 8,
+    "sentiment": 30,
+    "positive": true
+  },
+  {
+    "index_by_10": 9,
+    "sentiment": 8,
+    "positive": true
+  },
+  {
+    "index_by_10": 10,
+    "sentiment": 9,
+    "positive": true
+  },
+  {
+    "index_by_10": 11,
+    "sentiment": 14,
+    "positive": true
+  },
+  {
+    "index_by_10": 12,
+    "sentiment": 13,
+    "positive": true
+  },
+  {
+    "index_by_10": 13,
+    "sentiment": 11,
+    "positive": true
+  },
+  {
+    "index_by_10": 14,
+    "sentiment": 4,
+    "positive": true
+  },
+  {
+    "index_by_10": 15,
+    "sentiment": -3,
+    "positive": false
+  },
+  {
+    "index_by_10": 16,
+    "sentiment": 2,
+    "positive": true
+  },
+  {
+    "index_by_10": 17,
+    "sentiment": 14,
+    "positive": true
+  },
+  {
+    "index_by_10": 18,
+    "sentiment": 10,
+    "positive": true
+  },
+  {
+    "index_by_10": 19,
+    "sentiment": 14,
+    "positive": true
+  },
+  {
+    "index_by_10": 20,
+    "sentiment": 12,
+    "positive": true
+  },
+  {
+    "index_by_10": 21,
+    "sentiment": 3,
+    "positive": true
+  },
+  {
+    "index_by_10": 22,
+    "sentiment": 4,
+    "positive": true
+  },
+  {
+    "index_by_10": 23,
+    "sentiment": 5,
+    "positive": true
+  },
+  {
+    "index_by_10": 24,
+    "sentiment": 3,
+    "positive": true
+  },
+  {
+    "index_by_10": 25,
+    "sentiment": 2,
+    "positive": true
+  },
+  {
+    "index_by_10": 26,
+    "sentiment": 4,
+    "positive": true
+  },
+  {
+    "index_by_10": 27,
+    "sentiment": -4,
+    "positive": false
+  },
+  {
+    "index_by_10": 28,
+    "sentiment": 1,
+    "positive": true
+  },
+  {
+    "index_by_10": 29,
+    "sentiment": 6,
+    "positive": true
+  },
+  {
+    "index_by_10": 30,
+    "sentiment": 14,
+    "positive": true
+  },
+  {
+    "index_by_10": 31,
+    "sentiment": -5,
+    "positive": false
+  },
+  {
+    "index_by_10": 32,
+    "sentiment": 3,
+    "positive": true
+  },
+  {
+    "index_by_10": 33,
+    "sentiment": 17,
+    "positive": true
+  },
+  {
+    "index_by_10": 34,
+    "sentiment": 0,
+    "positive": false
+  },
+  {
+    "index_by_10": 35,
+    "sentiment": 1,
+    "positive": true
+  },
+  {
+    "index_by_10": 36,
+    "sentiment": 12,
+    "positive": true
+  },
+  {
+    "index_by_10": 37,
+    "sentiment": -6,
+    "positive": false
+  },
+  {
+    "index_by_10": 38,
+    "sentiment": 8,
+    "positive": true
+  },
+  {
+    "index_by_10": 39,
+    "sentiment": 6,
+    "positive": true
+  },
+  {
+    "index_by_10": 40,
+    "sentiment": 9,
+    "positive": true
+  },
+  {
+    "index_by_10": 41,
+    "sentiment": 0,
+    "positive": false
+  },
+  {
+    "index_by_10": 42,
+    "sentiment": 14,
+    "positive": true
+  },
+  {
+    "index_by_10": 43,
+    "sentiment": 9,
+    "positive": true
+  },
+  {
+    "index_by_10": 44,
+    "sentiment": 4,
+    "positive": true
+  },
+  {
+    "index_by_10": 45,
+    "sentiment": 17,
+    "positive": true
+  },
+  {
+    "index_by_10": 46,
+    "sentiment": -1,
+    "positive": false
+  },
+  {
+    "index_by_10": 47,
+    "sentiment": 14,
+    "positive": true
+  },
+  {
+    "index_by_10": 48,
+    "sentiment": 10,
+    "positive": true
+  },
+  {
+    "index_by_10": 49,
+    "sentiment": 4,
+    "positive": true
+  },
+  {
+    "index_by_10": 50,
+    "sentiment": 3,
+    "positive": true
+  },
+  {
+    "index_by_10": 51,
+    "sentiment": 1,
+    "positive": true
+  },
+  {
+    "index_by_10": 52,
+    "sentiment": 1,
+    "positive": true
+  },
+  {
+    "index_by_10": 53,
+    "sentiment": -11,
+    "positive": false
+  },
+  {
+    "index_by_10": 54,
+    "sentiment": 26,
+    "positive": true
+  },
+  {
+    "index_by_10": 55,
+    "sentiment": 9,
+    "positive": true
+  },
+  {
+    "index_by_10": 56,
+    "sentiment": 20,
+    "positive": true
+  },
+  {
+    "index_by_10": 57,
+    "sentiment": 18,
+    "positive": true
+  },
+  {
+    "index_by_10": 58,
+    "sentiment": 3,
+    "positive": true
+  },
+  {
+    "index_by_10": 59,
+    "sentiment": -13,
+    "positive": false
+  },
+  {
+    "index_by_10": 60,
+    "sentiment": 2,
+    "positive": true
+  },
+  {
+    "index_by_10": 61,
+    "sentiment": 19,
+    "positive": true
+  },
+  {
+    "index_by_10": 62,
+    "sentiment": 15,
+    "positive": true
+  },
+  {
+    "index_by_10": 63,
+    "sentiment": 10,
+    "positive": true
+  },
+  {
+    "index_by_10": 64,
+    "sentiment": 13,
+    "positive": true
+  },
+  {
+    "index_by_10": 65,
+    "sentiment": 36,
+    "positive": true
+  },
+  {
+    "index_by_10": 66,
+    "sentiment": 27,
+    "positive": true
+  },
+  {
+    "index_by_10": 67,
+    "sentiment": 23,
+    "positive": true
+  },
+  {
+    "index_by_10": 68,
+    "sentiment": -11,
+    "positive": false
+  },
+  {
+    "index_by_10": 69,
+    "sentiment": 4,
+    "positive": true
+  },
+  {
+    "index_by_10": 70,
+    "sentiment": 8,
+    "positive": true
+  },
+  {
+    "index_by_10": 71,
+    "sentiment": -1,
+    "positive": false
+  },
+  {
+    "index_by_10": 72,
+    "sentiment": -12,
+    "positive": false
+  },
+  {
+    "index_by_10": 73,
+    "sentiment": 25,
+    "positive": true
+  },
+  {
+    "index_by_10": 74,
+    "sentiment": 34,
+    "positive": true
+  },
+  {
+    "index_by_10": 75,
+    "sentiment": 9,
+    "positive": true
+  },
+  {
+    "index_by_10": 76,
+    "sentiment": 37,
+    "positive": true
+  },
+  {
+    "index_by_10": 77,
+    "sentiment": 5,
+    "positive": true
+  },
+  {
+    "index_by_10": 78,
+    "sentiment": 1,
+    "positive": true
+  },
+  {
+    "index_by_10": 79,
+    "sentiment": 17,
+    "positive": true
+  },
+  {
+    "index_by_10": 80,
+    "sentiment": 31,
+    "positive": true
+  },
+  {
+    "index_by_10": 81,
+    "sentiment": 6,
+    "positive": true
+  },
+  {
+    "index_by_10": 82,
+    "sentiment": 7,
+    "positive": true
+  },
+  {
+    "index_by_10": 83,
+    "sentiment": 5,
+    "positive": true
+  },
+  {
+    "index_by_10": 84,
+    "sentiment": 2,
+    "positive": true
+  },
+  {
+    "index_by_10": 85,
+    "sentiment": 7,
+    "positive": true
+  },
+  {
+    "index_by_10": 86,
+    "sentiment": 4,
+    "positive": true
+  },
+  {
+    "index_by_10": 87,
+    "sentiment": -5,
+    "positive": false
+  },
+  {
+    "index_by_10": 88,
+    "sentiment": 12,
+    "positive": true
+  },
+  {
+    "index_by_10": 89,
+    "sentiment": -9,
+    "positive": false
+  },
+  {
+    "index_by_10": 90,
+    "sentiment": 13,
+    "positive": true
+  }
+]
