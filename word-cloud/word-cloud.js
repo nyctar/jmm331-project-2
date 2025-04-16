@@ -5,9 +5,9 @@ const height = 400;
 const layout = d3.layout.cloud()
   .size([width, height])
   .words(words.map(d => Object.create(d)))
-  .padding(5)
+  .padding(2)
   .rotate(() => (~~(Math.random() * 2)) * 90)
-  .fontSize(d => d.size)
+  .fontSize(d => d.size * 0.6)
   .on("end", draw);
 
 layout.start();
