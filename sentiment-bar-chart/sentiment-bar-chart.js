@@ -5,7 +5,7 @@ d3.json("sentiment-bar-chart.json").then(data => {
         d.positive = d.sentiment > 0;
     });
 
-    const margin = { top: 30, right: 20, bottom: 40, left: 50 };
+    const margin = { top: 10, right: 10, bottom: 10, left: 10 };
     const width = 600 - margin.left - margin.right;
     const height = 400 - margin.top - margin.bottom;
 
