@@ -25,7 +25,7 @@ d3.json("sentiment-bar-chart.json").then(data => {
         .domain(d3.extent(data, d => d.sentiment)).nice()
         .range([height, 0]);
 
-    const color = d => d.positive ? "#2ca02c" : "#d62728";
+    const color = d => d.positive ? "#0E79B2" : "#F26419";
 
     svg.append("g")
         .selectAll("rect")
