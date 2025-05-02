@@ -1,8 +1,8 @@
 d3.json("sentiment-bar-chart.json").then(data => {
     data.forEach(d => {
         d.index_by_10 = +d.index_by_10;
-        d.sentiment = +d.sentiment;
-        d.positive = d.sentiment > 0;
+        d.group_sentiment = +d.group_sentiment;
+        d.positive = d.group_sentiment > 0;
     });
 
     const margin = { top: 10, right: 10, bottom: 10, left: 10 };
@@ -22,25 +22,38 @@ d3.json("sentiment-bar-chart.json").then(data => {
         .padding(0.1);
 
     const y = d3.scaleLinear()
-        .domain(d3.extent(data, d => d.sentiment)).nice()
+        .domain(d3.extent(data, d => d.group_sentiment)).nice()
         .range([height, 0]);
 
     const color = d => d.positive ? "#0E79B2" : "#F26419";
 
-    svg.append("g")
-        .selectAll("rect")
+    const tooltip = d3.select("#tooltip");
+
+    svg.selectAll("rect")
         .data(data)
         .enter()
         .append("rect")
         .attr("x", d => x(d.index_by_10))
-        .attr("y", d => d.sentiment >= 0 ? y(d.sentiment) : y(0))
-        .attr("height", d => Math.abs(y(d.sentiment) - y(0)))
+        .attr("y", d => d.group_sentiment >= 0 ? y(d.group_sentiment) : y(0))
+        .attr("height", d => Math.abs(y(d.group_sentiment) - y(0)))
         .attr("width", x.bandwidth())
-        .attr("fill", color);
+        .attr("fill", color)
+        .on("mouseover", function(event, d) {
+            tooltip.style("opacity", 1)
+                   .html(`<strong>Group ${d.index_by_10}</strong><br/>${d.full_text}`);
+        })
+        .on("mousemove", function(event) {
+            tooltip.style("left", (event.pageX + 10) + "px")
+                   .style("top", (event.pageY - 28) + "px");
+        })
+        .on("mouseout", function() {
+            tooltip.style("opacity", 0);
+        });
 
     svg.append("text")
         .attr("x", width / 2)
         .attr("y", -10)
         .attr("text-anchor", "middle")
         .style("font-size", "18px")
+        .text("Sentiment by Group of 10 Lines");
 });

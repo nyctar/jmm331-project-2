@@ -1,452 +1,632 @@
 [
   {
     "index_by_10": 1,
-    "sentiment": 7,
+    "group_sentiment": 7,
+    "full_text": "Having been some time impressed with the belief that a trip to California would be beneficial not only in a pecuniary point of view, but likewise to the better regulation of health and future happenings, I resolved about the 1st of January of 1849 to have my profession that of a Mathematical Instrument Maker and the eve to be remembered Monumental city of Baltimore for a trip to the golden shores of the far western El Dorado.",
+    "line_sentiment": 5,
     "positive": true
   },
   {
     "index_by_10": 2,
-    "sentiment": 9,
+    "group_sentiment": 9,
+    "full_text": "Mr Robinson then presented - \"three cheers to our Country\", which our company responded to with warmth - \"three cheers to the friends and dear bonnie lassies, we leave behind,\" and it burst simultaneously from the very hearts of all. - and \"three cheers to Philadelphia\" which we answered appropriately according with our sentiments of the Quaker City.",
+    "line_sentiment": 9,
     "positive": true
   },
   {
     "index_by_10": 3,
-    "sentiment": 15,
+    "group_sentiment": 15,
+    "full_text": "The citizens upon the wharves responded - \"three cheers for the success of the Carmago Company\" followed by a succession of cheers for individuals named in our company, among which the clerk of the Ship \"Mason,\" observing my singular dress in common with my comrades and knowing me, gave \"three cheers for the Buckskin Injnn.\" and thus did our friends cheer us at the hour of separating from all that was dear to us, to embark upon the great and eventful Ocean of future prospects.",
+    "line_sentiment": 13,
     "positive": true
   },
   {
     "index_by_10": 4,
-    "sentiment": 19,
+    "group_sentiment": 19,
+    "full_text": "This evening being much moderated, with a clear and beautiful Moon, most of our party promenade the whole round of the vessel in rapid Military order, whilst the brig bounded upon the long and high Ocean Swells with that majesty becomming the bread bosom of the Atlantic; whilst the spray threw up to the bowsprit and the sheeted sides, it's showery foam, gilded by the silvery rags of the Moon, and followed in the wake  by a long bright trail of foaming ripples receding in our pathway back to the horizon.Our boat dashed on handsomely to the tune of a brisk wind, whilst the music and merry songs of the happier ones arose in concert with the gently whistling winds that playfully tuned their ocean song amid our rigging and canvass.",
+    "line_sentiment": 9,
     "positive": true
   },
   {
     "index_by_10": 5,
-    "sentiment": -4,
+    "group_sentiment": -4,
+    "full_text": "The bounding of our vessel was truly majestic and far beyond what I had ever before witnessed; all sails were tied up and nothing but the small stay sail open to the gale during the afternoon Nearly the whole company were sick, including myself, but I did not so much as loose one meal by it.",
+    "line_sentiment": -5,
     "positive": false
   },
   {
     "index_by_10": 6,
-    "sentiment": 6,
+    "group_sentiment": 6,
+    "full_text": "The sick ones are improving and getting lively; the vessel has bounded on beautifully all day, and we crossed the Gulf Stream this morning, winds from the west which drove us out to sea, possibly 350 miles from land, and this evening a little south of the lattitude of Charleston of South Carolina.",
+    "line_sentiment": 5,
     "positive": true
   },
   {
     "index_by_10": 7,
-    "sentiment": 6,
+    "group_sentiment": 6,
+    "full_text": "Thursd 8th Light clouds, air mild, and a pleasant breeze from the North East, with light ocean waves.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 8,
-    "sentiment": 30,
+    "group_sentiment": 30,
+    "full_text": "Friday 9th A beautiful morning of pleasant breezes; up early and saw the sun rise clear upon the rolling ocean.",
+    "line_sentiment": 6,
     "positive": true
   },
   {
     "index_by_10": 9,
-    "sentiment": 8,
+    "group_sentiment": 8,
+    "full_text": "No wind and almost quiet; Ocean almost quiet; This day proved to be a regular calm, and the sun very warm.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 10,
-    "sentiment": 9,
+    "group_sentiment": 9,
+    "full_text": "The sun rose beautifully in a fleecy cloud of golden hue, and a brisk wind drove us rapidly towards the Bahamia Bar, the day is clear, mild, and our Brig passed 5 other vessels this morning all bound in the same direction.",
+    "line_sentiment": 5,
     "positive": true
   },
   {
     "index_by_10": 11,
-    "sentiment": 14,
+    "group_sentiment": 14,
+    "full_text": "There is something exquisite, glowing, brilliant and more diversified with brilliant and unapproachable colors accompanying a sun set scene in this southern chime, that seldom occurs to those farther north, and infinitely above the Artists pencil. [*Wednesday 14th *] Temperature mild, high and favorable wind driving us rapidly to the South west over the gulf of Mexico.",
+    "line_sentiment": 8,
     "positive": true
   },
   {
     "index_by_10": 12,
-    "sentiment": 13,
+    "group_sentiment": 13,
+    "full_text": "Mon.d 19th  Morning clear, air mild, fair wind and travelling pretty fair.",
+    "line_sentiment": 5,
     "positive": true
   },
   {
     "index_by_10": 13,
-    "sentiment": 11,
+    "group_sentiment": 11,
+    "full_text": "Gulf in a calm. discovered  land at 1/2 past 12 P.M. a fair breeze in the afternoon water of the Gulf getting quite green.",
+    "line_sentiment": 4,
     "positive": true
   },
   {
     "index_by_10": 14,
-    "sentiment": 4,
+    "group_sentiment": 4,
+    "full_text": "Many porposes were playing  in the gulf as we entered the river. it was a beautiful sun set scene, and the weather quite warm.  we were not permitted to go on shore this evening.",
+    "line_sentiment": 4,
     "positive": true
   },
   {
     "index_by_10": 15,
-    "sentiment": -3,
+    "group_sentiment": -3,
+    "full_text": "The many singular plants with the beautiful flowers and foliage of spring combined with the lively colors of the dwellings, gave to Tampico, a singular and highly interesting appearance.",
+    "line_sentiment": 5,
     "positive": false
   },
   {
     "index_by_10": 16,
-    "sentiment": 2,
+    "group_sentiment": 2,
+    "full_text": "Our company of 40. were all presented to a tall thin and dignified praefect or chief Alcalde, who signed each pasport, for which he charged each $1.",
+    "line_sentiment": -3,
     "positive": true
   },
   {
     "index_by_10": 17,
-    "sentiment": 14,
+    "group_sentiment": 14,
+    "full_text": "The Sabbath is but little observed here, church open with most of the stores &c in the morning, and all closed in the  afternoon, for dances called fandango's, cockfights and other amusements, etc.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 18,
-    "sentiment": 10,
+    "group_sentiment": 10,
+    "full_text": "Even our servants or mule drivers, were dressed in their  clean white linens; a thing most remarkable for this country considering their state of civilization.",
+    "line_sentiment": 4,
     "positive": true
   },
   {
     "index_by_10": 19,
-    "sentiment": 14,
+    "group_sentiment": 14,
+    "full_text": "The weather here is quite as hot as august in the States,  but a fine sea breeze comes from the Gulf of Mexico, every afternoon; that makes our perambulations about town more pleasant.",
+    "line_sentiment": 5,
     "positive": true
   },
   {
     "index_by_10": 20,
-    "sentiment": 12,
+    "group_sentiment": 12,
+    "full_text": "In the foreground there is a long tract of prarie, covered with the wild prarie grass, some chaparell bushes, with occasional  patches of low timber, and skirted on the margin of both waters with brushy trees, and one Rancho or (small) farm. [*Mond March 5th*] Weather warm, and yet no rain, but a pleasant  breeze each afternoon.",
+    "line_sentiment": 4,
     "positive": true
   },
   {
     "index_by_10": 21,
-    "sentiment": 3,
+    "group_sentiment": 3,
+    "full_text": "At this Haciendo, our dinners were of the best the  country afforded, including a great variety of new dishes.Tuesd 6th Day clear and very warm; our baggage was repacked and carefully weighed; and likewise assorted for mule loads.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 22,
-    "sentiment": 4,
+    "group_sentiment": 4,
+    "full_text": "The appearance of our company completely equipped with with guns, rifles, revolvers, knives, swords, &c. was anything but pleasant for a guerrilla to look at, some of which we anticipated meeting. half the day we marched upon a prairie plain, a part of whichhad no timber and scarcely any vegetation.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 23,
-    "sentiment": 5,
+    "group_sentiment": 5,
+    "full_text": "This was a fit time to remind one of those pleasant evenings at home, of scenes in our native land.",
+    "line_sentiment": 4,
     "positive": true
   },
   {
     "index_by_10": 24,
-    "sentiment": 3,
+    "group_sentiment": 3,
+    "full_text": "View us winding our way in single file, with baggage mules in advance, with coats off, and red flannen, as  conspicuous; with arms glistening in the mid days sun, the arrearo's or mule drivers singing out with their incessant \"mulah\", the guide ahead  smoking his cigaretto, or little paper cigar, and the  rest of the travellers following like a flock of spring birds in complete tune, and merry felicity, among dust, sunshine, and the shadeless forrests of palm. [*20*] In places however the palms, and palmettos arched over our road.and gave us a partial shade for a short period, then we would come up on an open plain, followed by a regular forrest of various trees, massive, dense, and overgrown with immense vines, and peculiar trees for occasional undergrowth; next a few small hills, then a brushy plane, followed again and again with the forrests of palm.",
+    "line_sentiment": 5,
     "positive": true
   },
   {
     "index_by_10": 25,
-    "sentiment": 2,
+    "group_sentiment": 2,
+    "full_text": "Among which I saw very many curious Banyan trees, or the wild figg tree.",
+    "line_sentiment": 1,
     "positive": true
   },
   {
     "index_by_10": 26,
-    "sentiment": 4,
+    "group_sentiment": 4,
+    "full_text": "On this days march we saw several curious Mounds.",
+    "line_sentiment": 1,
     "positive": true
   },
   {
     "index_by_10": 27,
-    "sentiment": -4,
+    "group_sentiment": -4,
+    "full_text": "You walk and lead your Mustangs over a rocky path, of such barbarous rudeness that you may deem it a venture for a Mountain goat, and yet your horse must be taxed with all his personal wits to puzzle his way out over loose rocks that edge over the precipice of an almost bottomless uncertainty.",
+    "line_sentiment": -3,
     "positive": false
   },
   {
     "index_by_10": 28,
-    "sentiment": 1,
+    "group_sentiment": 1,
+    "full_text": "We arrived in the village early in the afternoon, and found Mr Grants division just on the point of leaving for S.L.",
+    "line_sentiment": 1,
     "positive": true
   },
   {
     "index_by_10": 29,
-    "sentiment": 6,
+    "group_sentiment": 6,
+    "full_text": "From appearances within we judge this chappel to contain more real wealth than many of those magnificent edifices of the States.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 30,
-    "sentiment": 14,
+    "group_sentiment": 14,
+    "full_text": "Just as I had completed this sketch the priest of the parish a very pleasant man ascended the tower and expressed much pleasure at finding me sketching, and thereupon requested me to descend and dine with him, to which I complied with much pleasure, in descending the tower in a shady recess, he placed my arms around  himself he also embraced me, with much feeling, and said that he liked the Americans.",
+    "line_sentiment": 10,
     "positive": true
   },
   {
     "index_by_10": 31,
-    "sentiment": -5,
+    "group_sentiment": -5,
+    "full_text": "Reader! you have doubtless seen nominally bad roads in the States, but they convey only a faint idea of the  hardships you must encounter in passing the formidable crags upon these mountains of distracted rudeness.",
+    "line_sentiment": -5,
     "positive": false
   },
   {
     "index_by_10": 32,
-    "sentiment": 3,
+    "group_sentiment": 3,
+    "full_text": "The first division having gone that way unadvised, they met with difficulties, detention, and considerable danger.",
+    "line_sentiment": -4,
     "positive": true
   },
   {
     "index_by_10": 33,
-    "sentiment": 17,
+    "group_sentiment": 17,
+    "full_text": "At sunset we descended into a romantic valley and wound around several Sugarloaf hills, by dark into the beautiful village of San Nicholas, where we encamped upon a pleasant plaza of grass in the midst of the village and at the foot of a large and imposing mountain.but suffice it to be said that this days march was the most wild rugged and exhausting of any to San Louis Potosi.",
+    "line_sentiment": 5,
     "positive": true
   },
   {
     "index_by_10": 34,
-    "sentiment": 0,
+    "group_sentiment": 0,
+    "full_text": "Whilst watering our horses at a pond in this valley, two suspicious Mexicans appeared, one over the pond, and the other near us apparently examining our arms, &c. and in a short time one of them made bold to tell two of our party that  he was one of a party defeated by the Mexican Government, and that they were many, who were now in persuit of  plunder, both of them were handsomely dressed, and rode upon first class animals.",
+    "line_sentiment": -2,
     "positive": false
   },
   {
     "index_by_10": 35,
-    "sentiment": 1,
+    "group_sentiment": 1,
+    "full_text": "It appeared to be a  section of country almost useless for any purpose, and it  really appeared strange, how such a barren wilderness of  of thorns could be at all inhabited where water was  also very bad and scarce; in the afternoon we travelled among clouds of dust, with a hot sun and but little breeze. before sunset we encamped under a tree, beside, a desolate mud dwelling upon a deasert plane, much like a scene in the desert of Arabia, appearing quite as barren and  forlorn, as the immagination could well picture as in sketch No 13.",
+    "line_sentiment": -6,
     "positive": true
   },
   {
     "index_by_10": 36,
-    "sentiment": 12,
+    "group_sentiment": 12,
+    "full_text": "We were almost constantly in sight of distant ranges of lofty and rugged mountains, lending romance to the day. and now and then large planes, covered with prairie grass would extend for before the eye to the mountains skirted here and there with pleasant shady woodlands.",
+    "line_sentiment": 6,
     "positive": true
   },
   {
     "index_by_10": 37,
-    "sentiment": -6,
+    "group_sentiment": -6,
+    "full_text": "Mr Sherman, one of the same , remained there so long that  in persuit of our caravan he missed the path and  was lost for a day and a half suffering greatly from exposure and other great dangers; after some delay, expense,  and trouble in scouring the country in various directions with a Mexican guide, he was at last found, much fatigued frightened, and sick, having encountered considerable perils.",
+    "line_sentiment": -16,
     "positive": false
   },
   {
     "index_by_10": 38,
-    "sentiment": 8,
+    "group_sentiment": 8,
+    "full_text": "On the way before entering this pass,  and at the commencement of a fine broad road, we  halted for a short time at a large Hacienda, called San  E Pedro No 17. having westward a beautiful mountain view, south the cultivated fields and distant hills, and around the dwelling several beautiful groves, over the principal door was painted in large letters, \"Casa Particular\".",
+    "line_sentiment": 8,
     "positive": true
   },
   {
     "index_by_10": 39,
-    "sentiment": 6,
+    "group_sentiment": 6,
+    "full_text": "As we descended the mountain, winding our way down a dangerous pass, a beautiful plane, with a range of barren mountains 15 miles westward, appeared before us, which I hastily sketched as our party descended to the plane, as in number 18.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 40,
-    "sentiment": 9,
+    "group_sentiment": 9,
+    "full_text": "This water was fair and cool, and very desirable for the country.",
+    "line_sentiment": 5,
     "positive": true
   },
   {
     "index_by_10": 41,
-    "sentiment": 0,
+    "group_sentiment": 0,
+    "full_text": "The inhabitants are now becoming less friendly than they were back over the mountains.",
+    "line_sentiment": 2,
     "positive": false
   },
   {
     "index_by_10": 42,
-    "sentiment": 14,
+    "group_sentiment": 14,
+    "full_text": "Having travelled 15 miles by 1/2 past 8.O. clock A.M. we entered the Splendid and singular city of San Louis Potosi, having passed through a beautiful little village before entering Potosi.",
+    "line_sentiment": 6,
     "positive": true
   },
   {
     "index_by_10": 43,
-    "sentiment": 9,
+    "group_sentiment": 9,
+    "full_text": "I also for the first time saw two peach trees in full blossom in a beautiful garden at the suburbs of the city.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 44,
-    "sentiment": 4,
+    "group_sentiment": 4,
+    "full_text": "We passed through this pleasant town, without halting and ascended a steep, high and rugged mountain at the immediate suburbs of the town.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 45,
-    "sentiment": 17,
+    "group_sentiment": 17,
+    "full_text": "We were nearly three days in this interesting city during which time whilst our guide was preparing fresh mustangs &c for our further journey to Mazatlan; and having some opportunities, I availed myself of them in visiting and sketching some of the massive and beautiful churches &c, having first obtained permission from an alcalde's clerk in the Governors' Palace, to visit and sketch as I wish'd.",
+    "line_sentiment": 6,
     "positive": true
   },
   {
     "index_by_10": 46,
-    "sentiment": -1,
+    "group_sentiment": -1,
+    "full_text": "The streets were thronged in almost every direction, and should one attempt a sketch in their presence, a crowd of noisy gabbling superstitious men, women, and children, would soon compell a retreat, at the risk of being stoned, amid the jeers, and language suiting degraded and grossly ignorant minds.",
+    "line_sentiment": -8,
     "positive": false
   },
   {
     "index_by_10": 47,
-    "sentiment": 14,
+    "group_sentiment": 14,
+    "full_text": "Their displays are gorgeous in the highest degree of man's ingenuity; and frequently exhibit much of the Theatrical; in some instances the walls and high gothic roof, being entirely covered with thousands of gothic (relief) devices, are entirely gilt with gold or silver leaf, until the whole interior glitters like a solid golden palace, with richly ornamental chandaliers, lights of various colors, hundreds of Statues of life size, adorned in robes of brilliant colors, gems, in great profusion, magnificent organs, select gallaries for the paintings, relicts, and statues of the saints, in one apartment of the St Domingo Sanctuary I was shown the bones of saints, and such other things as would fill a volume to describe.On returning to the main plaza, I sketched the Palace  of the governor as in fig 27. a crowd of noisy belligerents soon manifested a a jeering aspect, which compelled me  to finish my sketch rather hastily.",
+    "line_sentiment": 6,
     "positive": true
   },
   {
     "index_by_10": 48,
-    "sentiment": 10,
+    "group_sentiment": 10,
+    "full_text": "Among which  I saw immages of Angels, about 4 feet in height appearing to be cast of Gold, encased in splendid cases over  the grand Altar.",
+    "line_sentiment": 6,
     "positive": true
   },
   {
     "index_by_10": 49,
-    "sentiment": 4,
+    "group_sentiment": 4,
+    "full_text": "A crowd of idle male and female spectators soon assembled around me bobbing continually their ugly phiz's directly in my face, so as interrupt, and intercept the view I was sketching -- presently two officers in military uniform, arrested me, and proceedded with me to an Alcalde's office, at the left base of the Governors' Palace.",
+    "line_sentiment": -8,
     "positive": true
   },
   {
     "index_by_10": 50,
-    "sentiment": 3,
+    "group_sentiment": 3,
+    "full_text": "The scenery about San Louis Potosi is in places romantic and interesting when combined with the distant mountain scenery of the Southwest; the contrast of mud huts with splendid edifices and the superb residences of the wealthy are very striking and is the first thing to be observed by every traveller.",
+    "line_sentiment": 10,
     "positive": true
   },
   {
     "index_by_10": 51,
-    "sentiment": 1,
+    "group_sentiment": 1,
+    "full_text": "Our Company remained 3 days in San Louis in order to purchase some fresh Animals, shoe others, and prepare for our further progress to Mazatlan.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 52,
-    "sentiment": 1,
+    "group_sentiment": 1,
+    "full_text": "Just before sunset we arrived at the Hacienda of Tepetate, the proprietor being hostile to the Americans, would not permit us to occupy the Mason, so that we were compelled to camp out not withstanding the night proved to be very cold; we raised our camp fires, and soon prepared excellent though plain suppers, which took their usual round in messes.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 53,
-    "sentiment": -11,
+    "group_sentiment": -11,
+    "full_text": "About eleven at night when darkness reigned in blackness, a noise like stampeeding or stealing  our horses and mules took place. 7 or 8 of our party immediately proceeded to search for the intruders with loaded arms, but found none there except our mule drivers; An hour after some alarm was created by hearing about 40, reports similar to the firing of guns in quick succession over in the next valley; we were however ready for any guerrillas or other intruders, but they did not trouble us further, as we fired salutes a number of times which echoed along the valley like sober precautions. [*Tuesday 27th*] Day clear and warm.",
+    "line_sentiment": -8,
     "positive": false
   },
   {
     "index_by_10": 54,
-    "sentiment": 26,
+    "group_sentiment": 26,
+    "full_text": "We passed around the base of a lofty and barren rocky mountain into a magnificent valley, where could be seen many handsome Haciendos, ranches little lakes walled up, with strong stone breastwork, extensive fields under good cultivation, some of which were irigated by fresh running streams, woodlands, a small meandering river, orange-groves, and other marks of civilization, besides another long and very beautiful village, along a broad and shady road, very unlike what we had seen since leaving San Louis Potosi.",
+    "line_sentiment": 6,
     "positive": true
   },
   {
     "index_by_10": 55,
-    "sentiment": 9,
+    "group_sentiment": 9,
+    "full_text": "A good  water mellon for a Quartee, 3 cts. a box of excellent  preserves for a Tolacco, 1 cent and a half, and a good  bowl of coffee for a Madeau or 6 1/4 cts.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 56,
-    "sentiment": 20,
+    "group_sentiment": 20,
+    "full_text": "The interior is still more splendid than its exterior, gorgeous displays of wealth, immense gothic works in gold and  silver leaf, are suspended from the far off ceiling, an organ, richly decorated is supported by a beautiful and curiously formed gallery, Pilasters of great height trimmed with silver leaf, rise between and separate very large and brilliant paintings.",
+    "line_sentiment": 14,
     "positive": true
   },
   {
     "index_by_10": 57,
-    "sentiment": 18,
+    "group_sentiment": 18,
+    "full_text": "The scenery of this deep and narrow valley, with its meandering  water course, and the distant mountains, was peculiarly  barren and wild; but the town had pleasant orange groves, gardens, &c, with shady walks and fountains here and there and a very handsome plaza, upon which  was the largest and finest Sanctuary we had yet seen even surpassing in magnitude the one last seen,  this was indeed a stupendeous pile of human art and perseverance; a sign informed us that its age exceeded 100, years, and it was yet in an excellent state of preservation.",
+    "line_sentiment": 6,
     "positive": true
   },
   {
     "index_by_10": 58,
-    "sentiment": 3,
+    "group_sentiment": 3,
+    "full_text": "At evening we landed at an old dilapidated rancho, where provisions were scarce and dear; the name of this rancho was \"Lavent,\" which I sketched and No 42, at sunset. [*Sat. 31st*] Day clear and warm.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 59,
-    "sentiment": -13,
+    "group_sentiment": -13,
+    "full_text": "Most of  our company visited him, and by much taking with  the Alcalde had him taken from a miserable cell  of crowded polution, and placed in better quarters,  we could not get him released, and had to leave him  at the mercy of his enraged enemies, and the Alcalde  believing him to be innocent of that charge, although  he frankly acknowledged having stolen 60 dollars  in Mexico, whilst in distress.",
+    "line_sentiment": -10,
     "positive": false
   },
   {
     "index_by_10": 60,
-    "sentiment": 2,
+    "group_sentiment": 2,
+    "full_text": "The feelings of the whole American Company  were against the Frenchmen, who treated him with  severe abuse.",
+    "line_sentiment": -5,
     "positive": true
   },
   {
     "index_by_10": 61,
-    "sentiment": 19,
+    "group_sentiment": 19,
+    "full_text": "On first beholding this fine  little river, it may naturally be supposed that we  rejoiced at the first sight of a stream that emptied  into the great Pacific Ocean, and it seem'd to make  us feel that a part of our great journey to California  via Mexico would soon draw the land chapters  to a grateful close.",
+    "line_sentiment": 9,
     "positive": true
   },
   {
     "index_by_10": 62,
-    "sentiment": 15,
+    "group_sentiment": 15,
+    "full_text": "Before arriving at Gaudalaxhara, at 4 miles distant, we  passed through a small town of a very pleasant appearance  in which there was the remains of a once superb sanctuary.",
+    "line_sentiment": 8,
     "positive": true
   },
   {
     "index_by_10": 63,
-    "sentiment": 10,
+    "group_sentiment": 10,
+    "full_text": "Having arrived in one of the handsomest and greatest cities of all Mexico, I hastened to avail myself of every opportunity to explore and discover its fine arts &c.",
+    "line_sentiment": 4,
     "positive": true
   },
   {
     "index_by_10": 64,
-    "sentiment": 13,
+    "group_sentiment": 13,
+    "full_text": "Every thing combined with a pleasant breezy afternoon, such as we had on entering Gaualaxhara, - a prettier scene could scarcely be found in any of the Northern States of Mexico.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 65,
-    "sentiment": 36,
+    "group_sentiment": 36,
+    "full_text": "It is the grand Sanctuary of this city and among its finest buildings for interior displays, which are immensely grand and very elegant; gems, Saints in splendid attire, magnificent Altars, Organs, paintings, large immages apparently cast in gold, over the Altars, inlaid porcelain, work, stained glass of various  colors, beautiful silken draperies, massive silver ornaments, gothic columns, and gothic domes gilt with gold and silver leaf, until the whole glittered by the evening lights like some fabulous golden palace for beings above the common things of mortality.",
+    "line_sentiment": 18,
     "positive": true
   },
   {
     "index_by_10": 66,
-    "sentiment": 27,
+    "group_sentiment": 27,
+    "full_text": "From this beautiful plaza I proceeded towards the aquaduct Southward, where getting upon the flat top of a Mexican Mason or public house, I sketched scene No 50. looking North East, towards some of the mountain ranges, and over the prettiest part of Gaudalaxhara, which I selected from the four views, showing a part of the aquaduct a fine large church, a part of the Hospital in the distance and a fine long park.",
+    "line_sentiment": 9,
     "positive": true
   },
   {
     "index_by_10": 67,
-    "sentiment": 23,
+    "group_sentiment": 23,
+    "full_text": "From this fountain [*54*]I proceeded about two miles to the northern suburbs,  and passing several beautiful churches of curious  Architecture, I came to a large enclosed Square, which  proved to be a cemetery; apparently of recent origin.  in the center of this square [was] I sketched No 53.  which is a handsomely ornamented and chequered frame with two interior apportuents which were  beautifully ornamented and richly decorated within  No 54 is a sketch of a beautiful freestone monument in the same enclosure.",
+    "line_sentiment": 10,
     "positive": true
   },
   {
     "index_by_10": 68,
-    "sentiment": -11,
+    "group_sentiment": -11,
+    "full_text": "At about 22. or 23 miles from the city, we came upon an open prarie of rolling or undulating knolls, a part of which had them been recently burned off, on this black charry and dismal looking place, there stood  a large and high gallows, upon which were suspended  the bodies of three Robber chiefs; they had been suspended  there about 3 weeks, and were ghastly looking objects, bullet holes preforated their dried bodies in many  places which were nearly ready to drop to the earth.  over them was a large painted Sign, as follows -  \"Thus the Law punishes the Robber and the Assassin\".",
+    "line_sentiment": -11,
     "positive": false
   },
   {
     "index_by_10": 69,
-    "sentiment": 4,
+    "group_sentiment": 4,
+    "full_text": "To the west this great triangular valley tapered to our interesting focus, at the far point of which the sun was setting amid a few light and beautiful clouds.whilst the mountains diminished gradually as they receded in the background, all of which formed quite an intersting and beautiful landscape view though very wild.",
+    "line_sentiment": 6,
     "positive": true
   },
   {
     "index_by_10": 70,
-    "sentiment": 8,
+    "group_sentiment": 8,
+    "full_text": "About 9.O. clock a Mexican having stolen a purse, from Mr Hassan, was persued and shot at by him, which scattered the rest in short metre.The Alcalde, called next morning and commeded Mr Hassans' course, by saying that he wished Mr H. had killed the thief; it appears that he was wounded, but got off with the bead purse.",
+    "line_sentiment": -5,
     "positive": true
   },
   {
     "index_by_10": 71,
-    "sentiment": -1,
+    "group_sentiment": -1,
+    "full_text": "This night a band of 40 Mexicans, all [each] well armed with muskets, pistols, swords, and knives; - presented themselves in double file at the gate of our Mason, or Hotel; and demanded quarters there for the night.",
+    "line_sentiment": -1,
     "positive": false
   },
   {
     "index_by_10": 72,
-    "sentiment": -12,
+    "group_sentiment": -12,
+    "full_text": "Its a matter of course all our men were prompt in self defence, and with our guns, pistols, and knives, in hand and about us, we drew up in order, compactly before the door, facing the Robbers, who stood quietly facing and viewing us as mute as a posse of terrified owls; the Alcalde and our landlord refused them admittance into our Mason, but they would have entered by force had not our company presented a bolder front, headed by Capt Grant, of Philadelphia; who told them that they should not enter, except at the peril of their lives, at the same time every trigger was ready to tell.",
+    "line_sentiment": -5,
     "positive": false
   },
   {
     "index_by_10": 73,
-    "sentiment": 25,
+    "group_sentiment": 25,
+    "full_text": "It was a most beautiful moonlight night, and now and then a gentle breeze played fitfully from the beautiful lake of Madalena; My turn among the sentinels came from 12 to 2 O clock in the morning; and my positions around the high walls, and the expansive enclosed yards, was pleasant and romantic during so pleasant a night as this; seeming at times like a dream, that I were facing therounds of some ancient castle and looking down among the  dark shades of the groves around slumbering in silence beneath the full and magic moon.",
+    "line_sentiment": 13,
     "positive": true
   },
   {
     "index_by_10": 74,
-    "sentiment": 34,
+    "group_sentiment": 34,
+    "full_text": "I was afterwards told for the purpose of washing out the silver ore beneath the road, seen on the mountainside, there is a small and pleasant village, in which there is an abundance of fine fruits and surrounded by extensive green fields, meadows, groves, and fine timbers along the stream that meanders through its valley, that spreads  out to a ---triangular cove, dotted with several pleasant Rancho's, No 70. is a sketch taken on entering this pleasant cove where the village was located.",
+    "line_sentiment": 13,
     "positive": true
   },
   {
     "index_by_10": 75,
-    "sentiment": 9,
+    "group_sentiment": 9,
+    "full_text": "The view from the Summet of this mountain looking eastward was fine indeed; including many a green and beautiful valley and more mountains, peaks, knolls, hills, vallies, dales, coves, and verdant spots, blended with wildness and prarie hills, than I had ever yet seen in all Mexico; and was really grand beyond description.",
+    "line_sentiment": 8,
     "positive": true
   },
   {
     "index_by_10": 76,
-    "sentiment": 37,
+    "group_sentiment": 37,
+    "full_text": "There was a fine large Church in this town, with a large shaded plaza or public square, upon which there was a grand display of many  kinds of fruits, drinks &c. including watermellons, Oranges, Bannanas, &c. &c. with Lemonade; Polka, etc. A grand procession of the virgin Mary took place, this evening parading in large crowds the various streets of the town with hundreds of Ladies and Gentlemen each in procession, carrying their separate candles.",
+    "line_sentiment": 8,
     "positive": true
   },
   {
     "index_by_10": 77,
-    "sentiment": 5,
+    "group_sentiment": 5,
+    "full_text": "Here some of our company obtained excellent cups of chocolate &c.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 78,
-    "sentiment": 1,
+    "group_sentiment": 1,
+    "full_text": "The government of Mexico, have cut and paved a road through this lava country at great expense, labor and time.The particulars of which they have taken care to place  upon a pedestial by the way side; whereas by passing the road (such as it was) around a few miles to the left  they might have avoided the worst peaks and ridges  of the [Schorae ?].",
+    "line_sentiment": -3,
     "positive": true
   },
   {
     "index_by_10": 79,
-    "sentiment": 17,
+    "group_sentiment": 17,
+    "full_text": "The remainder of our company proceeded as usual not at all pleased with the rush for passage, almost every Mexican  returning; when asked, gave us different reports about the chances of passenger from San Blass up to San Francisco; and we could ascertain nothing very definite and but little that was encouraging.",
+    "line_sentiment": 5,
     "positive": true
   },
   {
     "index_by_10": 80,
-    "sentiment": 31,
+    "group_sentiment": 31,
+    "full_text": "They paying 70 dollars, and find themselvesbesides being compelled to sleep upon deck; and even at that thinking themselves lucky in getting the chance, at the same time chuckling at us, whoom they considered unfortunate; in not having a chance to sail from San Blass, and at the same time telling us that they pittied us, as we must evidently remain somewheres in Mexico possibly for months to come.",
+    "line_sentiment": 8,
     "positive": true
   },
   {
     "index_by_10": 81,
-    "sentiment": 6,
+    "group_sentiment": 6,
+    "full_text": "The South, thesome great chain of mountains ranged with their many lofty peaks; South west a beautiful valley continued for miles,  with a high mountain ranging west of it.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 82,
-    "sentiment": 7,
+    "group_sentiment": 7,
+    "full_text": "Their garden  of Bannanas, Plantains, Oranges and other tropical fruits, is extensive, and exceedingly beautiful, and  more to the idea of some Hindoo scene than one in Mexico.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 83,
-    "sentiment": 5,
+    "group_sentiment": 5,
+    "full_text": "In making our grand descent upon the plains, we passed down over a long rotine of rugged hills, that gradually diminished as we descended, being sparcely covered with large Palm trees, some underbrush, and now and then parched, prarie grass not of much interest.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 84,
-    "sentiment": 2,
+    "group_sentiment": 2,
+    "full_text": "During this night Mr Davis (who joined us some days back) was scalded by the accidental overturning of our large camp kettle, in which was stewing a fine mess of chicken, supposed to have been done by wolves, that were heard about just before I was on duty as one of the Sentinels from 12 to 2 and several times, heard the wolves, Mr D was not badly scalded however. [*April 11th*]  Day clear and hot.",
+    "line_sentiment": -5,
     "positive": true
   },
   {
     "index_by_10": 85,
-    "sentiment": 7,
+    "group_sentiment": 7,
+    "full_text": "We also saw a wild tree about the size and shape of an ordinary apple tree, bearing large and numerous pods of the fine white cotton; And a number of curious fruit trees about the woodlands and water courses.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 86,
-    "sentiment": 4,
+    "group_sentiment": 4,
+    "full_text": "After refreshing  ourselves upon mellons, fruit, etc, in this pleasant town we proceeded forward at a rapid gait to finish a long days march.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 87,
-    "sentiment": -5,
+    "group_sentiment": -5,
+    "full_text": "We camped beside the road, and huts, and kept strict watch during the night; but a few miles back, on the other side of the river we could have encamped at a small village, where all the conveniences were at hand, but being only a few days from Mazatlan, our company became very anxious to finish their land travels in Mexico, and consequently pressed each day.",
+    "line_sentiment": -2,
     "positive": false
   },
   {
     "index_by_10": 88,
-    "sentiment": 12,
+    "group_sentiment": 12,
+    "full_text": "This stream we forded and entered the pleasant town of Rosario as in sketch No. 97.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
     "index_by_10": 89,
-    "sentiment": -9,
+    "group_sentiment": -9,
+    "full_text": "For some time I supposed that we were coming to the margin of a lake whose waters were troubled into waves by wind, but on approaching the same, I discovered the mistake; by discovering that the heat of the Sun caused a mist to arise from the sand, which by its position and  reflection to the eye caused the deception called mirage. about noon we arrived in the old village of Mazatlan distant from the present Sea port of Mazatlan, about 24  miles.",
+    "line_sentiment": -7,
     "positive": false
   },
   {
     "index_by_10": 90,
-    "sentiment": 13,
+    "group_sentiment": 13,
+    "full_text": "The fresh breeze was fanning us from the pacific; the declining Sun was shedding his gentler evening rays upon us from over the hills of the Port of Mazatlan, as we wound our way around that pretty lake before named, and crossing the flats, we arising suddenly upon a high ground came at once in full view of the long sought for port of Mazatlan, and for the first time a broad and beautiful view of the Pacific Ocean, its islands, shipping, and its foaming  surfs that chased each other rapidly upon the pretty beach before us.",
+    "line_sentiment": 6,
     "positive": true
   }
 ]

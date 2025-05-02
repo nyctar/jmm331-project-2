@@ -12,10 +12,22 @@
             width: fit-content;
             padding: 10px;
         }
+
+        #tooltip {
+            position: absolute;
+            opacity: 0;
+            background: #fff;
+            border: 1px solid #ccc;
+            padding: 10px;
+            max-width: 300px;
+            font-size: 14px;
+            pointer-events: none;
+        }
     </style>
 </head>
 <body>
     <div class="center" id="sentimentBarChart"></div>
-    <script src = "sentiment-bar-chart.js"></script>
+    <div id="tooltip"></div>
+    <script src="sentiment-bar-chart.js"></script>
 </body>
 </html>
