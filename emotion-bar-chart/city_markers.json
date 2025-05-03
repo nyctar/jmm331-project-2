@@ -1,0 +1,50 @@
+[
+  {
+    "city": "Tampico",
+    "index_by_10": 14
+  },
+  {
+    "city": "Sierra Madre",
+    "index_by_10": 31
+  },
+  {
+    "city": "San Louis Potosi",
+    "index_by_10": 42
+  },
+  {
+    "city": "Lagos de Moreno",
+    "index_by_10": 54
+  },
+  {
+    "city": "Tepatitlán",
+    "index_by_10": 58
+  },
+  {
+    "city": "Guadalajara",
+    "index_by_10": 62
+  },
+  {
+    "city": "Tequila",
+    "index_by_10": 70
+  },
+  {
+    "city": "Ixtlan",
+    "index_by_10": 76
+  },
+  {
+    "city": "Tepic",
+    "index_by_10": 80
+  },
+  {
+    "city": "Acaponeta",
+    "index_by_10": 86
+  },
+  {
+    "city": "El Rosario",
+    "index_by_10": 88
+  },
+  {
+    "city": "Mazatlan",
+    "index_by_10": 90
+  }
+]

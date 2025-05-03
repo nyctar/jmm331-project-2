@@ -8,10 +8,21 @@
     <title>Benajah Jay Antrim's Journals</title>
     <link rel="stylesheet" href="../css/font.css">
     <style>
+        #tooltip {
+            position: absolute;
+            opacity: 0;
+            background: #fff;
+            border: 1px solid #ccc;
+            padding: 10px;
+            max-width: 300px;
+            font-size: 14px;
+            pointer-events: none;
+        }
     </style>
 </head>
 <body>
-    <div class="center" id="emotionsOverTimeChart"></div>
-    <script src = "emotions-over-time-chart.js"></script>
+    <div class="center" id="emotionBarChart"></div>
+    <div id="tooltip"></div>
+    <script src="emotion-bar-chart.js"></script>
 </body>
 </html>

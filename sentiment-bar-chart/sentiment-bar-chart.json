@@ -100,15 +100,15 @@
   {
     "index_by_10": 15,
     "group_sentiment": -3,
-    "full_text": "The many singular plants with the beautiful flowers and foliage of spring combined with the lively colors of the dwellings, gave to Tampico, a singular and highly interesting appearance.",
-    "line_sentiment": 5,
+    "full_text": "The mainplaza, is paved with limestone (vide sketch No 2.) in the centre of which there is a large circular pediment of limestone rising in 6 steps, upon the summet of which there was once a monument of Santa Anna; which has been destroyed in their Revolutionary events.",
+    "line_sentiment": -3,
     "positive": false
   },
   {
     "index_by_10": 16,
     "group_sentiment": 2,
-    "full_text": "Our company of 40. were all presented to a tall thin and dignified praefect or chief Alcalde, who signed each pasport, for which he charged each $1.",
-    "line_sentiment": -3,
+    "full_text": "Our party had about $20 worth of the essence of tea, the duties of which was over $30.",
+    "line_sentiment": 2,
     "positive": true
   },
   {
@@ -219,8 +219,8 @@
   {
     "index_by_10": 32,
     "group_sentiment": 3,
-    "full_text": "The first division having gone that way unadvised, they met with difficulties, detention, and considerable danger.",
-    "line_sentiment": -4,
+    "full_text": "The proprietor of the Rancho, is an Alcalde of wealth, and a man of affable manners.",
+    "line_sentiment": 3,
     "positive": true
   },
   {
@@ -233,15 +233,15 @@
   {
     "index_by_10": 34,
     "group_sentiment": 0,
-    "full_text": "Whilst watering our horses at a pond in this valley, two suspicious Mexicans appeared, one over the pond, and the other near us apparently examining our arms, &c. and in a short time one of them made bold to tell two of our party that  he was one of a party defeated by the Mexican Government, and that they were many, who were now in persuit of  plunder, both of them were handsomely dressed, and rode upon first class animals.",
-    "line_sentiment": -2,
+    "full_text": "We turned to the left from this interesting valley, through a pass in the hills similar to  No 9. when we came in view of the beautiful and-- romantic village of Tortugas, or village of turtles, where we arrived at 4 P.M. and located ourselves in a  small brush school house, upon a small riding ground well adapted to defence, as an attack of the Guerrillas was looked for, as quite certain during the night.",
+    "line_sentiment": 2,
     "positive": false
   },
   {
     "index_by_10": 35,
     "group_sentiment": 1,
-    "full_text": "It appeared to be a  section of country almost useless for any purpose, and it  really appeared strange, how such a barren wilderness of  of thorns could be at all inhabited where water was  also very bad and scarce; in the afternoon we travelled among clouds of dust, with a hot sun and but little breeze. before sunset we encamped under a tree, beside, a desolate mud dwelling upon a deasert plane, much like a scene in the desert of Arabia, appearing quite as barren and  forlorn, as the immagination could well picture as in sketch No 13.",
-    "line_sentiment": -6,
+    "full_text": "The hills upon either side are nothing of nearly void of vegetation, the whole valley is divided into large fields for corn, and well improved with stone fences.",
+    "line_sentiment": 2,
     "positive": true
   },
   {
@@ -338,8 +338,8 @@
   {
     "index_by_10": 49,
     "group_sentiment": 4,
-    "full_text": "A crowd of idle male and female spectators soon assembled around me bobbing continually their ugly phiz's directly in my face, so as interrupt, and intercept the view I was sketching -- presently two officers in military uniform, arrested me, and proceedded with me to an Alcalde's office, at the left base of the Governors' Palace.",
-    "line_sentiment": -8,
+    "full_text": "Our guns, pistols, swords, knives, &c. were all ready for immediate use, and were kept in excellent order, and many of our boys made the vallies echo with their jovial songs whilst passing, at the same time keeping an eye for any vagrant Guerrillas among the cliffs and brushes.",
+    "line_sentiment": 5,
     "positive": true
   },
   {
@@ -408,15 +408,15 @@
   {
     "index_by_10": 59,
     "group_sentiment": -13,
-    "full_text": "Most of our company visited him, and by much taking with  the Alcalde had him taken from a miserable cell  of crowded polution, and placed in better quarters,  we could not get him released, and had to leave him  at the mercy of his enraged enemies, and the Alcalde  believing him to be innocent of that charge, although  he frankly acknowledged having stolen 60 dollars  in Mexico, whilst in distress.",
+    "full_text": "Most of  our company visited him, and by much taking with  the Alcalde had him taken from a miserable cell  of crowded polution, and placed in better quarters,  we could not get him released, and had to leave him  at the mercy of his enraged enemies, and the Alcalde  believing him to be innocent of that charge, although  he frankly acknowledged having stolen 60 dollars  in Mexico, whilst in distress.",
     "line_sentiment": -10,
     "positive": false
   },
   {
     "index_by_10": 60,
     "group_sentiment": 2,
-    "full_text": "The feelings of the whole American Company  were against the Frenchmen, who treated him with  severe abuse.",
-    "line_sentiment": -5,
+    "full_text": "This evening the host passed around the plaza drawn in his superb carriage, with the usual ceremonies.",
+    "line_sentiment": 5,
     "positive": true
   },
   {
@@ -485,8 +485,8 @@
   {
     "index_by_10": 70,
     "group_sentiment": 8,
-    "full_text": "About 9.O. clock a Mexican having stolen a purse, from Mr Hassan, was persued and shot at by him, which scattered the rest in short metre.The Alcalde, called next morning and commeded Mr Hassans' course, by saying that he wished Mr H. had killed the thief; it appears that he was wounded, but got off with the bead purse.",
-    "line_sentiment": -5,
+    "full_text": "We were informed at Gaudalaxhara, that this town was, and had been a celebrated rendezvous for the mountain Robbers. &c. [*Thurs'd. 5th*] Day warm and clear.",
+    "line_sentiment": 4,
     "positive": true
   },
   {
@@ -541,8 +541,8 @@
   {
     "index_by_10": 78,
     "group_sentiment": 1,
-    "full_text": "The government of Mexico, have cut and paved a road through this lava country at great expense, labor and time.The particulars of which they have taken care to place  upon a pedestial by the way side; whereas by passing the road (such as it was) around a few miles to the left  they might have avoided the worst peaks and ridges  of the [Schorae ?].",
-    "line_sentiment": -3,
+    "full_text": "About  this valley, which have spread out to many miles,  many little Ranchos and villages were to be seen upon  the fertile spots, like favored places upon the  desert of Arabia.",
+    "line_sentiment": 2,
     "positive": true
   },
   {
@@ -583,8 +583,8 @@
   {
     "index_by_10": 84,
     "group_sentiment": 2,
-    "full_text": "During this night Mr Davis (who joined us some days back) was scalded by the accidental overturning of our large camp kettle, in which was stewing a fine mess of chicken, supposed to have been done by wolves, that were heard about just before I was on duty as one of the Sentinels from 12 to 2 and several times, heard the wolves, Mr D was not badly scalded however. [*April 11th*]  Day clear and hot.",
-    "line_sentiment": -5,
+    "full_text": "These five large shade trees, are however not too abundant, and by seeing them in the distance I frequently judged our distance from a Rancho; as they are favorite trees on these planes.",
+    "line_sentiment": 2,
     "positive": true
   },
   {
