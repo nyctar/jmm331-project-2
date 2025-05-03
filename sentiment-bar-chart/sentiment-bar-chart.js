@@ -53,6 +53,10 @@ d3.json("sentiment-bar-chart.json").then(data => {
             tooltip.style("opacity", 0);
         });
 
+    // Identify most positive and most negative sentiment values
+    const mostPositive = d3.max(data, d => d.group_sentiment);
+    const mostNegative = d3.min(data, d => d.group_sentiment);
+
     // Load and render city markers
     d3.json("city_markers.json").then(cityData => {
         // Vertical dashed lines
@@ -68,6 +72,27 @@ d3.json("sentiment-bar-chart.json").then(data => {
             .attr("stroke", "#999")
             .attr("stroke-dasharray", "4 2")
             .attr("stroke-width", 1);
+            
+        // Identify most positive and negative values
+        const mostPositive = d3.max(data, d => d.group_sentiment);
+        const mostNegative = d3.min(data, d => d.group_sentiment);
+
+        svg.selectAll(".sentiment-circle")
+            .data(data.filter(d =>
+                d.group_sentiment === mostPositive || d.group_sentiment === mostNegative
+            ))
+            .enter()
+            .append("circle")
+            .attr("class", "sentiment-circle")
+            .attr("cx", d => x(d.index_by_10) + x.bandwidth() / 2)
+            .attr("cy", d => d.group_sentiment >= 0
+                ? y(d.group_sentiment) // top of positive bar  
+                : y(d.group_sentiment)) // bottom of negative bar
+            .attr("r", 6)
+            .attr("fill", "none")
+            .attr("stroke", "#888")
+            .attr("stroke-width", 2);
+
 
         // Bottom-aligned city labels with staggered offsets
         svg.selectAll(".city-label")
