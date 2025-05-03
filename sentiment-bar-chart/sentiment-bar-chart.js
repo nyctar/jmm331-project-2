@@ -47,7 +47,9 @@ d3.json("sentiment-bar-chart.json").then(data => {
                     <div style="color: ${d.group_sentiment >= 0 ? '#0E79B2' : '#F26419'}; font-size: 16px; font-weight: bold;">
                         Sentiment Score: ${d.group_sentiment}
                     </div>
+                    <div style="margin-top: 4px;">
                     <em>${d.full_text}</em>
+                    </div>
                 `);
         })
         .on("mousemove", function(event) {

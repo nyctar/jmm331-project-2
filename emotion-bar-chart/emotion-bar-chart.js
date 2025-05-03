@@ -47,15 +47,16 @@ d3.json("emotion-bar-chart.json").then(data => {
       const color = emotionColors[emotion];
       const emotionCapitalized = emotion.charAt(0).toUpperCase() + emotion.slice(1);
     
-      tooltip
-        .style("opacity", 1)
+      tooltip.style("opacity", 1)
         .html(`
           <div style="color: ${color}; font-size: 16px; font-weight: bold;">
-            ${emotionCapitalized}
+            ${emotionCapitalized} (${d.n})
           </div>
+          <div style="margin-top: 4px;">
           <em>${d.full_text}</em>
+          </div>
         `);
-    })    
+    })     
     .on("mousemove", function (event) {
       tooltip
         .style("left", (event.pageX + 10) + "px")
