@@ -23,7 +23,7 @@ d3.json("emotion-bar-chart.json").then(data => {
   const emotionColors = {
     joy: "#2A9D8F",
     sadness: "#6C91BF",
-    anger: "#C1121F",
+    anger: "#FF6F61",
     fear: "#9D4EDD",
     trust: "#1B98E0",
     anticipation: "#F7B801",
@@ -137,7 +137,7 @@ d3.json("emotion-bar-chart.json").then(data => {
         .text(" | ");
 
       emotionLegend.append("tspan")
-        .style("fill", "#C1121F")
+        .style("fill", "#FF6F61")
         .style("font-weight", "bold")
         .text("Anger");
 
@@ -198,7 +198,7 @@ d3.json("emotion-bar-chart.json").then(data => {
       .text(". Hovering shows a selected line from the group.");
 
     // Animate the emotion tspan color
-    const emotionColors = ["#F7B801", "#C1121F", "#2A9D8F", "#9D4EDD"];
+    const emotionColors = ["#F7B801", "#FF6F61", "#2A9D8F", "#9D4EDD"];
     let colorIndex = 0;
 
     function cycleEmotionColor() {
