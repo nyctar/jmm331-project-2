@@ -1,4 +1,4 @@
-d3.json("nrc_emotions_over_time.json").then(data => {
+d3.json("emotions_over_time.json").then(data => {
     const width = 600;
     const height = 150;
     const margin = { top: 20, right: 30, bottom: 30, left: 40 };

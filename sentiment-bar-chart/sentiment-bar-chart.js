@@ -43,7 +43,12 @@ d3.json("sentiment-bar-chart.json").then(data => {
         .attr("fill", color)
         .on("mouseover", function(event, d) {
             tooltip.style("opacity", 1)
-                   .html(`${d.full_text}`);
+                .html(`
+                    <div style="color: ${d.group_sentiment >= 0 ? '#0E79B2' : '#F26419'}; font-size: 16px; font-weight: bold;">
+                        Sentiment Score: ${d.group_sentiment}
+                    </div>
+                    <em>${d.full_text}</em>
+                `);
         })
         .on("mousemove", function(event) {
             tooltip.style("left", (event.pageX + 10) + "px")
