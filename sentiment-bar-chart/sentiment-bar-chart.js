@@ -77,11 +77,11 @@ d3.json("sentiment-bar-chart.json").then(data => {
             .attr("class", "city-label")
             .attr("x", d => x(d.index_by_10) + x.bandwidth() / 2)
             .attr("y", d => {
-                if (d.city === "San Maria del Lagos") return height + 15;
-                if (d.city === "Tepatillan") return height + 30;
-                if (d.city === "Gaudalaxhara") return height + 45;
-                if (d.city === "Cauponetta") return height + 15;
-                if (d.city === "Rosario") return height + 30;
+                if (d.city === "Lagos de Moreno") return height + 15;
+                if (d.city === "Tepatitlán") return height + 30;
+                if (d.city === "Guadalajara") return height + 45;
+                if (d.city === "Acaponeta") return height + 15;
+                if (d.city === "El Rosario") return height + 30;
                 if (d.city === "Mazatlan") return height + 45;
                 return height + 15;
             })
