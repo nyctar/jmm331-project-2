@@ -5,9 +5,9 @@ d3.json("sentiment-bar-chart.json").then(data => {
         d.positive = d.group_sentiment > 0;
     });
 
-    const margin = { top: 10, right: 10, bottom: 60, left: 10 };
+    const margin = { top: 10, right: 10, bottom: 10, left: 10 };
     const width = 800 - margin.left - margin.right;
-    const height = 500 - margin.top - margin.bottom;
+    const height = 400 - margin.top - margin.bottom;
 
     const svg = d3.select("#sentimentBarChart")
         .append("svg")
@@ -17,10 +17,12 @@ d3.json("sentiment-bar-chart.json").then(data => {
         .attr("transform", `translate(${margin.left},${margin.top})`);
 
 
+    const chartPadding = { left: 5, right: 5 };
+
     const x = d3.scaleBand()
-        .domain(data.map(d => d.index_by_10))
-        .range([0, width])
-        .padding(0.1);
+        .domain([...new Set(data.map(d => d.index_by_10))])
+        .range([chartPadding.left, width - chartPadding.right])
+        .padding(0.2);
 
     const y = d3.scaleLinear()
         .domain(d3.extent(data, d => d.group_sentiment)).nice()
@@ -87,21 +89,60 @@ d3.json("sentiment-bar-chart.json").then(data => {
             .style("font-size", "10px")
             .text(d => d.city);
 
-        // Subheading below chart
-        svg.append("text")
+            const subheading = svg.append("text")
             .attr("x", width / 2)
             .attr("y", height + 115)
             .attr("text-anchor", "middle")
-            .style("font-size", "11px")
-            .selectAll("tspan")
-            .data([
-                "Each of the bar represents a group of 10 lines in the journal categorized by the sentiment type (positive or negative)",
-                "and score (more positive or more negative). Once hovered, a selected line from the group is shown."
-            ])
-            .enter()
-            .append("tspan")
+            .style("font-size", "14px");
+        
+        // Line 1
+        subheading.append("tspan")
             .attr("x", width / 2)
-            .attr("dy", (d, i) => i === 0 ? 0 : "12px")
-            .text(d => d);
+            .attr("dy", 0)
+            .style("fill", "#555")
+            .text("Each bar represents a group of 10 lines in the journal, categorized by sentiment type (");
+        
+        subheading.append("tspan")
+            .style("fill", "#0E79B2")
+            .style("font-weight", "bold")
+            .text("positive");
+        
+        subheading.append("tspan")
+            .style("fill", "#555")
+            .text(" or ");
+        
+        subheading.append("tspan")
+            .style("fill", "#F26419")
+            .style("font-weight", "bold")
+            .text("negative");
+        
+        subheading.append("tspan")
+            .style("fill", "#555")
+            .text(")");
+        
+        // Line 2
+        subheading.append("tspan")
+            .attr("x", width / 2)
+            .attr("dy", "1.4em")
+            .style("fill", "#555")
+            .text("and sentiment score (");
+        
+        subheading.append("tspan")
+            .style("fill", "#0E79B2")
+            .style("font-weight", "bold")
+            .text("more positive");
+        
+        subheading.append("tspan")
+            .style("fill", "#555")
+            .text(" or ");
+        
+        subheading.append("tspan")
+            .style("fill", "#F26419")
+            .style("font-weight", "bold")
+            .text("more negative");
+        
+        subheading.append("tspan")
+            .style("fill", "#555")
+            .text("). Hovering shows a selected line from the group.");        
     });
 });
