@@ -8,10 +8,47 @@
     <title>Benajah Jay Antrim's Journals</title>
     <link rel="stylesheet" href="../css/font.css">
     <style>
+        .toggle-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 14px;
+            margin-bottom: 10px;
+            gap: 8px;
+        }
+
+        .toggle-container input[type="checkbox"] {
+            width: 16px;
+            height: 16px;
+            cursor: pointer;
+            accent-color: #d13e37; /* blue theme */
+        }
+
+        #tooltip {
+            position: absolute;
+            opacity: 0;
+            background: #fff;
+            border: 1px solid #ccc;
+            padding: 10px;
+            max-width: 300px;
+            font-size: 14px;
+            pointer-events: none;
+            z-index: 999;
+        }
+        #wordCloud {
+            margin-top: 36px;
+            margin-bottom: 24px; /* Adjust as needed */
+        }
     </style>
 </head>
 <body>
     <div class="center" id="wordCloud"></div>
-    <script src = "word-cloud.js"></script>  
-</body>
+    <div id="tooltip"></div>
+    <div class="toggle-container">
+        <input type="checkbox" id="sentimentToggle" />
+        <label for="sentimentToggle">Show Only Positive or Negative Words</label>
+    </div>      
+  
+    <script src="main.js"></script>  
+  </body>
 </html>
