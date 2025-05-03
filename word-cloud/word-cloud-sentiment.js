@@ -47,8 +47,8 @@ d3.json("word-cloud.json").then(function (originalWords) {
             "#000"; // black for neutral
         
           const html = `
-            <div style="font-size: 18px;"><strong>Count:</strong> ${count}</div>
-            <div style="color: ${sentimentColor}; font-weight: bold;">Sentiment: ${sentiment}</div>
+            <div style="font-size: 16px;"><strong>Count:</strong> ${count}</div>
+            <div style="color: ${sentimentColor};"><strong>Sentiment:</strong>  ${sentiment}</div>
             <div style="font-size: 12px; color: #999;">${word}</div>
           `;
         

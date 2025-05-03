@@ -10,9 +10,10 @@
     <style>
         .toggle-container {
             display: flex;
+            color: #574237;
             justify-content: center;
             align-items: center;
-            font-size: 14px;
+            font-size: 12px;
             margin-bottom: 10px;
             gap: 8px;
         }
@@ -22,6 +23,19 @@
             height: 16px;
             cursor: pointer;
             accent-color: #d13e37; /* blue theme */
+        }
+        .sentiment-toggle-label {
+            font-size: 12px;
+        }
+
+        .positive-word {
+            color: #0E79B2;
+            font-weight: bold;
+        }
+
+        .negative-word {
+            color: #F26419;
+            font-weight: bold;
         }
 
         #tooltip {
@@ -39,6 +53,14 @@
             margin-top: 36px;
             margin-bottom: 24px; /* Adjust as needed */
         }
+        #wordCloudAnnotation {
+            font-size: 14px;
+            color: #574237;
+            max-width: 600px;
+            margin: 16px auto 0;
+            text-align: center;
+            line-height: 1.5;
+        }
     </style>
 </head>
 <body>
@@ -46,9 +68,15 @@
     <div id="tooltip"></div>
     <div class="toggle-container">
         <input type="checkbox" id="sentimentToggle" />
-        <label for="sentimentToggle">Show Only Positive or Negative Words</label>
-    </div>      
-  
+        <label for="sentimentToggle" class="sentiment-toggle-label">
+            Show Only <span class="positive-word">Positive</span> or 
+            <span class="negative-word">Negative</span> Words
+          </label>          
+    </div>
+    <div id="wordCloudAnnotation">
+        The size of each word corresponds to the frequency of its occurrence in the journal.<br>
+        You can also toggle between all words and words that contain sentiment.
+      </div>
     <script src="main.js"></script>  
   </body>
 </html>

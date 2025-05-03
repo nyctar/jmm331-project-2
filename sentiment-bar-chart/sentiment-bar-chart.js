@@ -74,7 +74,7 @@ d3.json("sentiment-bar-chart.json").then(data => {
             .attr("x2", d => x(d.index_by_10) + x.bandwidth() / 2)
             .attr("y1", 0)
             .attr("y2", height)
-            .attr("stroke", "#999")
+            .attr("stroke", "#574237")
             .attr("stroke-dasharray", "4 2")
             .attr("stroke-width", 1);
             
@@ -95,7 +95,7 @@ d3.json("sentiment-bar-chart.json").then(data => {
                 : y(d.group_sentiment)) // bottom of negative bar
             .attr("r", 6)
             .attr("fill", "none")
-            .attr("stroke", "#888")
+            .attr("stroke", "#574237")
             .attr("stroke-width", 2);
 
 
@@ -117,19 +117,21 @@ d3.json("sentiment-bar-chart.json").then(data => {
             })
             .attr("text-anchor", "middle")
             .style("font-size", "10px")
+            .style("fill", "#574237")
             .text(d => d.city);
 
-            const subheading = svg.append("text")
+        const subheading = svg.append("text")
             .attr("x", width / 2)
             .attr("y", height + 115)
             .attr("text-anchor", "middle")
+            .style("fill", "#574237")
             .style("font-size", "14px");
         
         // Line 1
         subheading.append("tspan")
             .attr("x", width / 2)
             .attr("dy", 0)
-            .style("fill", "#555")
+            .style("fill", "#574237")
             .text("Each bar represents a group of 10 lines in the journal, categorized by sentiment type (");
         
         subheading.append("tspan")
@@ -138,7 +140,7 @@ d3.json("sentiment-bar-chart.json").then(data => {
             .text("positive");
         
         subheading.append("tspan")
-            .style("fill", "#555")
+            .style("fill", "#574237")
             .text(" or ");
         
         subheading.append("tspan")
@@ -147,14 +149,14 @@ d3.json("sentiment-bar-chart.json").then(data => {
             .text("negative");
         
         subheading.append("tspan")
-            .style("fill", "#555")
+            .style("fill", "#574237")
             .text(")");
         
         // Line 2
         subheading.append("tspan")
             .attr("x", width / 2)
             .attr("dy", "1.4em")
-            .style("fill", "#555")
+            .style("fill", "#574237")
             .text("and sentiment score (");
         
         subheading.append("tspan")
@@ -163,7 +165,7 @@ d3.json("sentiment-bar-chart.json").then(data => {
             .text("more positive");
         
         subheading.append("tspan")
-            .style("fill", "#555")
+            .style("fill", "#574237")
             .text(" or ");
         
         subheading.append("tspan")
@@ -172,7 +174,7 @@ d3.json("sentiment-bar-chart.json").then(data => {
             .text("more negative");
         
         subheading.append("tspan")
-            .style("fill", "#555")
+            .style("fill", "#574237")
             .text("). Hovering shows a selected line from the group.");        
     });
 });
