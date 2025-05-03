@@ -1,0 +1,50 @@
+[
+  {
+    "city": "Tampico",
+    "index_by_10": 14
+  },
+  {
+    "city": "Siera Madre Mountains",
+    "index_by_10": 31
+  },
+  {
+    "city": "San Louis Potosi",
+    "index_by_10": 42
+  },
+  {
+    "city": "San Maria del Lagos",
+    "index_by_10": 54
+  },
+  {
+    "city": "Tepatillan",
+    "index_by_10": 58
+  },
+  {
+    "city": "Gaudalaxhara",
+    "index_by_10": 62
+  },
+  {
+    "city": "Tekelah",
+    "index_by_10": 70
+  },
+  {
+    "city": "Eastlan",
+    "index_by_10": 76
+  },
+  {
+    "city": "Tepec",
+    "index_by_10": 80
+  },
+  {
+    "city": "Cauponetta",
+    "index_by_10": 86
+  },
+  {
+    "city": "Rosario",
+    "index_by_10": 88
+  },
+  {
+    "city": "Mazatlan",
+    "index_by_10": 90
+  }
+]
