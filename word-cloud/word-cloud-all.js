@@ -13,7 +13,7 @@ d3.json("word-cloud.json").then(function (originalWords) {
   const layout = d3.layout.cloud()
     .size([width, height])
     .words(filtered)
-    .padding(1)
+    .padding(4)
     .rotate(() => (~~(Math.random() * 2)) * 90)
     .fontSize(d => d.size * 0.8)
     .on("end", draw);
@@ -38,12 +38,24 @@ d3.json("word-cloud.json").then(function (originalWords) {
       .text(d => d.text)
       .on("mouseover", function (event, d) {
         const sentiment = d.sentiment ?? "neutral";
+        const count = d.originalSize;
+        const word = d.text;
+      
+        const sentimentColor =
+          sentiment === "positive" ? "#0E79B2" :
+          sentiment === "negative" ? "#F26419" :
+          "#000";
+      
+        const html = `
+          <div style="font-size: 18px;"><strong>Count:</strong> ${count}</div>
+          <div style="color: ${sentimentColor}; font-weight: bold;">Sentiment: ${sentiment}</div>
+          <div style="font-size: 12px; color: #999;">${word}</div>
+        `;
+      
         tooltip
           .style("opacity", 1)
-          .html(
-            `<strong>Word: ${d.text}<br/></strong>Count: ${d.originalSize}<br/>Sentiment: ${sentiment}`
-          );
-      })      
+          .html(html);
+      })        
       .on("mousemove", function (event) {
         tooltip
           .style("left", event.pageX + 10 + "px")
