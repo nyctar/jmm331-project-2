@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/d3-cloud/build/d3.layout.cloud.js"></script>
+    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+    <title>Benajah Jay Antrim's Journals</title>
+    <link rel="stylesheet" href="../css/font.css">
+
+    <style>
+        #tooltip {
+            position: absolute;
+            opacity: 0;
+            background: #fbf3e6;
+            border: 1px solid #ccc;
+            padding: 10px;
+            max-width: 300px;
+            font-size: 14px;
+            pointer-events: none;
+        }
+        #emotion-treemap {
+            background-color: #fbf3e6;
+        }
+    </style>
+</head>
+<body>
+    <div class="center" id="emotion-treemap"></div>
+    <div id="tooltip"></div>
+    <script src="emotion-treemap.js"></script>
+</body>
+</html>

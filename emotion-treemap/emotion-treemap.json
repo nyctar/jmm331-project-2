@@ -1,0 +1,37 @@
+{
+  "name": "emotions",
+  "children": [
+    {
+      "name": "anger",
+      "value": 242
+    },
+    {
+      "name": "anticipation",
+      "value": 606
+    },
+    {
+      "name": "disgust",
+      "value": 86
+    },
+    {
+      "name": "fear",
+      "value": 172
+    },
+    {
+      "name": "joy",
+      "value": 251
+    },
+    {
+      "name": "sadness",
+      "value": 19
+    },
+    {
+      "name": "surprise",
+      "value": 23
+    },
+    {
+      "name": "trust",
+      "value": 96
+    }
+  ]
+}

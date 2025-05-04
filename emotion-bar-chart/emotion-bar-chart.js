@@ -76,7 +76,7 @@ d3.json("emotion-bar-chart.json").then(data => {
     });
 
   // Load and render city markers
-  d3.json("city_markers.json").then(cityData => {
+  d3.json("city-markers.json").then(cityData => {
     svg.selectAll(".city-line")
       .data(cityData)
       .enter()
@@ -195,7 +195,7 @@ d3.json("emotion-bar-chart.json").then(data => {
     // Line 2 part 3
     caption.append("tspan")
       .style("fill", "#574237")
-      .text(". Hovering shows a selected line from the group.");
+      .text(". Hovering a bar shows a selected line from the group.");
 
     // Animate the emotion tspan color
     const emotionColors = ["#F7B801", "#FF6F61", "#2A9D8F", "#9D4EDD"];

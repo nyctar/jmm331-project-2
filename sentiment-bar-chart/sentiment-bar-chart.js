@@ -65,7 +65,7 @@ d3.json("sentiment-bar-chart.json").then(data => {
     const mostNegative = d3.min(data, d => d.group_sentiment);
 
     // Load and render city markers
-    d3.json("city_markers.json").then(cityData => {
+    d3.json("city-markers.json").then(cityData => {
         // Vertical dashed lines
         svg.selectAll(".city-line")
             .data(cityData)
@@ -177,6 +177,6 @@ d3.json("sentiment-bar-chart.json").then(data => {
         
         subheading.append("tspan")
             .style("fill", "#574237")
-            .text("). Hovering shows a selected line from the group.");        
+            .text("). Hovering a bar shows a selected line from the group.");        
     });
 });
