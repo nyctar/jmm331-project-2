@@ -67,8 +67,8 @@ const svg = d3.select("#network")
           tooltip.transition().duration(200).style("opacity", 0.95);
           tooltip.html(`
             <strong>Topic:</strong> ${d.label}<br/>
+            <strong>Connections:</strong> ${connectionCount}</div>
             <div style="font-size: 12px; color: #999;">${d.id}</div>
-            <div style="font-size: 12px; color: #aaa;">Connections: ${connectionCount}</div>
           `)
           .style("left", `${event.pageX + 10}px`)
           .style("top", `${event.pageY - 28}px`);
@@ -94,8 +94,7 @@ const svg = d3.select("#network")
         .attr("x", d => d.x + 10)
         .attr("y", d => d.y + 4)
         .attr("font-size", "12px")
-        .attr("font-family", "elante")
-        .attr("fill", "#333");
+        .attr("fill", "#574237");
     }
 
     // Initial render
